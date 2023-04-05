@@ -94,7 +94,7 @@ int review (){
     }
     
     //enter your review line by line
-    printf("\n(Remember not to make the lines too long)  :)\n");
+    //printf("\n(Remember not to make the lines too long)  :)\n");
     for (int i = 0; i < numLines; i++)
     {
         // clear_input_buffer();
